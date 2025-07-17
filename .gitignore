@@ -194,3 +194,4 @@ cython_debug/
 .cursorindexingignore
 
 Attention mechanism.ipynb
+LLM Training Validation Loss.ipynb
