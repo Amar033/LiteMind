@@ -196,3 +196,6 @@ cython_debug/
 Attention mechanism.ipynb
 LLM Training Validation Loss.ipynb
 LLM Decoding Strategies.ipynb
+gpt2/
+model.pth
+model_and_optimizer.pth
